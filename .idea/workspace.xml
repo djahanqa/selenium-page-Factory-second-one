@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6897024d-16aa-4b4e-8fb8-fae7295eea8b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="2" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="159" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>myAccount1</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RdH0wZXxXFhbCcUKp1CsU7dQSh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/testsuite" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.MultipleItemTest">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="" />
+      <setting name="debug" value="false" />
+      <setting name="alternativeJrePathEnabled" value="true" />
+      <setting name="alternativeJrePath" value="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPagefactoryFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="contact.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="contact" />
+      <option name="MAIN_CLASS_NAME" value="contact.ContactTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactTest.varifySendAMessage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPagefactoryFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="contact.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="contact" />
+      <option name="MAIN_CLASS_NAME" value="contact.ContactTest" />
+      <option name="METHOD_NAME" value="varifySendAMessage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageeTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPagefactoryFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homepageeTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homepageeTest" />
+      <option name="MAIN_CLASS_NAME" value="homepageeTest.HomePageeTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageeTest.searchDressesQuantity" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPagefactoryFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homepageeTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homepageeTest" />
+      <option name="MAIN_CLASS_NAME" value="homepageeTest.HomePageeTest" />
+      <option name="METHOD_NAME" value="searchDressesQuantity" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultipleItemTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPagefactoryFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="multipleItem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="multipleItem" />
+      <option name="MAIN_CLASS_NAME" value="multipleItem.MultipleItemTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.MultipleItemTest" />
+        <item itemvalue="TestNG.HomePageeTest" />
+        <item itemvalue="TestNG.HomePageeTest.searchDressesQuantity" />
+        <item itemvalue="TestNG.ContactTest" />
+        <item itemvalue="TestNG.ContactTest.varifySendAMessage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6897024d-16aa-4b4e-8fb8-fae7295eea8b" name="Default Changelist" comment="" />
+      <created>1563633911326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563633911326</updated>
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1563633945310</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563633945310</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Selenium practice">
+      <created>1564289611563</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1564289611563</updated>
+    </task>
+    <task id="LOCAL-00003" summary="HomePageTest added">
+      <created>1564848358312</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1564848358312</updated>
+    </task>
+    <task id="LOCAL-00004" summary="HomePageTest added">
+      <created>1564848888795</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1564848888795</updated>
+    </task>
+    <task id="LOCAL-00005" summary="HomePageTest added">
+      <created>1564849026189</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1564849026189</updated>
+    </task>
+    <task id="LOCAL-00006" summary="contactpage Test added">
+      <created>1564932320603</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1564932320603</updated>
+    </task>
+    <task id="LOCAL-00007" summary="contactpage Test added">
+      <created>1564941916146</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1564941916146</updated>
+    </task>
+    <task id="LOCAL-00008" summary="contactpage Test added">
+      <created>1564959481728</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1564959481728</updated>
+    </task>
+    <task id="LOCAL-00009" summary="all the tests from home page passed">
+      <created>1564966969551</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1564966969551</updated>
+    </task>
+    <task id="LOCAL-00010" summary="home page tests passed">
+      <created>1564968947584</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1564968947584</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Contact page">
+      <created>1564980955208</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1564980955209</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Contact page">
+      <created>1569992526915</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1569992526916</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Contact page">
+      <created>1569993032796</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1569993032796</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Contact page">
+      <created>1569993761756</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1569993761756</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <MESSAGE value="Selenium practice" />
+    <MESSAGE value="HomePageTest added" />
+    <MESSAGE value="contactpage Test added" />
+    <MESSAGE value="all the tests from home page passed" />
+    <MESSAGE value="home page tests passed" />
+    <MESSAGE value="Contact page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Contact page" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/contact/ContactTest.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/homepageeTest/HomePageeTest.java</url>
+          <line>193</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SeleniumPagefactoryFramework$_Users_dilrubajahan_Documents_SeleniumPagefactoryFramework_src_test_resources_testsuite_regression_xml.ic" NAME="$PROJECT_DIR$/src/test/resources/testsuite/regression.xml Coverage Results" MODIFIED="1564969750313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/SeleniumPagefactoryFramework$All_in_SeleniumPagefactoryFramework.ic" NAME="All in SeleniumPagefactoryFramework Coverage Results" MODIFIED="1564841946396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/SeleniumPagefactoryFramework$_Users_dilrubajahan_Documents_SeleniumPagefactoryFramework_testng_xml.ic" NAME="$PROJECT_DIR$/testng.xml Coverage Results" MODIFIED="1564842657968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/SeleniumPagefactoryFramework$_default_.ic" NAME="&lt;default&gt; Coverage Results" MODIFIED="1564841900816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
