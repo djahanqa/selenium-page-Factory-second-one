@@ -5,13 +5,17 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
+import java.net.MalformedURLException;
+
 public class CartPageTest extends ScriptBase {
 
     CartPage cartPage;
 
     @BeforeTest
-    public void beforetest() {
-        init();
+    public void beforetest() throws MalformedURLException {
+
+       // init();
+        soucelab();
     }
 
     @Test

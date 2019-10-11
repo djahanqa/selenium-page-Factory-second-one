@@ -6,16 +6,15 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
-public class ContactTest extends ScriptBase {
+import java.net.MalformedURLException;
 
+public class ContactTest extends ScriptBase {
 
     ContactPage contactPage;
 
-
-
     @BeforeTest
-    public void beforetest() {
-        init();
+    public void beforetest() throws MalformedURLException {
+        soucelab();
 
     }
     @Test

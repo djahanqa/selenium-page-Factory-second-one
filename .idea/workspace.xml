@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6897024d-16aa-4b4e-8fb8-fae7295eea8b" name="Default Changelist" comment="" />
+    <list default="true" id="6897024d-16aa-4b4e-8fb8-fae7295eea8b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_2_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_2_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_27_1_jre.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_27_1_jre.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_14_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_14_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_17_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_17_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_2_5_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_2_5_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_17.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_4_0_0_alpha_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_4_0_0_alpha_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_4_0_0_alpha_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_4_0_0_alpha_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_4_0_0_alpha_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_4_0_0_alpha_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_4_0_0_alpha_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_4_0_0_alpha_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_xpi_driver_4_0_0_alpha_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_xpi_driver_4_0_0_alpha_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_4_0_0_alpha_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_4_0_0_alpha_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_4_0_0_alpha_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_4_0_0_alpha_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_4_0_0_alpha_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_4_0_0_alpha_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_4_0_0_alpha_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_4_0_0_alpha_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_4_0_0_alpha_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_4_0_0_alpha_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_4_0_0_alpha_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_4_0_0_alpha_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumPagefactoryFramework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumPagefactoryFramework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/base/ScriptBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/base/ScriptBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/Woman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/Woman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cart/CartPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cart/CartPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/contact/ContactTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/contact/ContactTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/base/ScriptBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/ScriptBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cart/CartPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/cart/CartPageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/contact/ContactTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/contact/ContactTest.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +112,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/drivers" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/test/resources/testsuite" />
     </key>
@@ -93,7 +131,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.MultipleItemTest">
+  <component name="RunManager" selected="TestNG.CartPageTest">
     <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
       <setting name="path" value="" />
       <setting name="vmparams" value="" />
@@ -102,6 +140,23 @@
       <setting name="debug" value="false" />
       <setting name="alternativeJrePathEnabled" value="true" />
       <setting name="alternativeJrePath" value="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CartPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPagefactoryFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cart.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cart" />
+      <option name="MAIN_CLASS_NAME" value="cart.CartPageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -117,24 +172,6 @@
       <option name="PACKAGE_NAME" value="contact" />
       <option name="MAIN_CLASS_NAME" value="contact.ContactTest" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ContactTest.varifySendAMessage" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumPagefactoryFramework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="contact.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="contact" />
-      <option name="MAIN_CLASS_NAME" value="contact.ContactTest" />
-      <option name="METHOD_NAME" value="varifySendAMessage" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -195,11 +232,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.CartPageTest" />
+        <item itemvalue="TestNG.ContactTest" />
         <item itemvalue="TestNG.MultipleItemTest" />
         <item itemvalue="TestNG.HomePageeTest" />
         <item itemvalue="TestNG.HomePageeTest.searchDressesQuantity" />
-        <item itemvalue="TestNG.ContactTest" />
-        <item itemvalue="TestNG.ContactTest.varifySendAMessage" />
       </list>
     </recent_temporary>
   </component>
@@ -312,7 +349,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569993761756</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Contact page">
+      <created>1570728895664</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1570728895664</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -343,7 +387,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/contact/ContactTest.java</url>
-          <line>31</line>
+          <line>30</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -363,5 +407,8 @@
     <SUITE FILE_PATH="coverage/SeleniumPagefactoryFramework$All_in_SeleniumPagefactoryFramework.ic" NAME="All in SeleniumPagefactoryFramework Coverage Results" MODIFIED="1564841946396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/SeleniumPagefactoryFramework$_Users_dilrubajahan_Documents_SeleniumPagefactoryFramework_testng_xml.ic" NAME="$PROJECT_DIR$/testng.xml Coverage Results" MODIFIED="1564842657968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/SeleniumPagefactoryFramework$_default_.ic" NAME="&lt;default&gt; Coverage Results" MODIFIED="1564841900816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/SeleniumPagefactoryFramework_master$ContactTest.ic" NAME="ContactTest Coverage Results" MODIFIED="1570759141148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>contact.*</FILTER>
+    </SUITE>
   </component>
 </project>
