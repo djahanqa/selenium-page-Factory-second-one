@@ -2,40 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6897024d-16aa-4b4e-8fb8-fae7295eea8b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_2_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_2_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_27_1_jre.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_27_1_jre.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_14_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_14_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_17_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_17_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_12.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_2_5_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_2_5_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_17.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_4_0_0_alpha_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_4_0_0_alpha_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_4_0_0_alpha_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_4_0_0_alpha_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_4_0_0_alpha_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_4_0_0_alpha_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_4_0_0_alpha_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_4_0_0_alpha_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_xpi_driver_4_0_0_alpha_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_xpi_driver_4_0_0_alpha_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_4_0_0_alpha_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_4_0_0_alpha_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_4_0_0_alpha_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_4_0_0_alpha_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_4_0_0_alpha_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_4_0_0_alpha_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_4_0_0_alpha_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_4_0_0_alpha_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_4_0_0_alpha_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_4_0_0_alpha_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_4_0_0_alpha_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_4_0_0_alpha_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeleniumPagefactoryFramework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumPagefactoryFramework.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/base/ScriptBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/base/ScriptBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/CartPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/CartPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/ContactPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/ContactPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/Homepagee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/Homepagee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/controller/Woman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/Woman.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/cart/CartPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cart/CartPageTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/contact/ContactTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/contact/ContactTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/homepageeTest/HomePageeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/homepageeTest/HomePageeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/login/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/login/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/multipleItem/MultipleItemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/multipleItem/MultipleItemTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/multipleItemAdded/MultipleItemAddedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/multipleItemAdded/MultipleItemAddedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/socialMediaTest/socialMediaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/socialMediaTest/socialMediaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/womanTest/WomanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/womanTest/WomanTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/womencatalog/WomanCatalogTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/womencatalog/WomanCatalogTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/base/ScriptBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/ScriptBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/CartPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/CartPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/ContactPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/ContactPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/Homepagee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/Homepagee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/Woman.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/Woman.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/cart/CartPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/cart/CartPageTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/contact/ContactTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/contact/ContactTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/homepageeTest/HomePageeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/homepageeTest/HomePageeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/login/LoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/login/LoginTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/multipleItem/MultipleItemTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/multipleItem/MultipleItemTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/multipleItemAdded/MultipleItemAddedTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/multipleItemAdded/MultipleItemAddedTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/social/socialMediaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/social/socialMediaTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/womanTest/WomanTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/womanTest/WomanTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/womencatalog/WomanCatalogTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/womencatalog/WomanCatalogTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +52,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="XSLT Stylesheet" />
+        <option value="FxmlFile" />
       </list>
     </option>
   </component>
@@ -100,8 +98,11 @@
     </option>
   </component>
   <component name="ProjectId" id="1RdH0wZXxXFhbCcUKp1CsU7dQSh" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
@@ -109,14 +110,15 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/drivers" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/test/resources/testsuite" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test" />
+      <recent name="$PROJECT_DIR$/drivers" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -131,7 +133,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.CartPageTest">
+  <component name="RunManager" selected="TestNG./Users/dilrubajahan/Downloads/SeleniumPagefactoryFramework-master/testng.xml">
     <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
       <setting name="path" value="" />
       <setting name="vmparams" value="" />
@@ -140,23 +142,6 @@
       <setting name="debug" value="false" />
       <setting name="alternativeJrePathEnabled" value="true" />
       <setting name="alternativeJrePath" value="/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CartPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumPagefactoryFramework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cart.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="cart" />
-      <option name="MAIN_CLASS_NAME" value="cart.CartPageTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -178,16 +163,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomePageeTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="WomanTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPagefactoryFramework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homepageeTest.*" />
+          <option name="PATTERN" value="womanTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="homepageeTest" />
-      <option name="MAIN_CLASS_NAME" value="homepageeTest.HomePageeTest" />
+      <option name="PACKAGE_NAME" value="womanTest" />
+      <option name="MAIN_CLASS_NAME" value="womanTest.WomanTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -195,17 +180,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomePageeTest.searchDressesQuantity" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="WomanTest.verifyEvening" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPagefactoryFramework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homepageeTest.*" />
+          <option name="PATTERN" value="womanTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="homepageeTest" />
-      <option name="MAIN_CLASS_NAME" value="homepageeTest.HomePageeTest" />
-      <option name="METHOD_NAME" value="searchDressesQuantity" />
+      <option name="PACKAGE_NAME" value="womanTest" />
+      <option name="MAIN_CLASS_NAME" value="womanTest.WomanTest" />
+      <option name="METHOD_NAME" value="verifyEvening" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -213,17 +198,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultipleItemTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="WomanTest.verifybCasual" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPagefactoryFramework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="multipleItem.*" />
+          <option name="PATTERN" value="womanTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="multipleItem" />
-      <option name="MAIN_CLASS_NAME" value="multipleItem.MultipleItemTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="womanTest" />
+      <option name="MAIN_CLASS_NAME" value="womanTest.WomanTest" />
+      <option name="METHOD_NAME" value="verifybCasual" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/dilrubajahan/Downloads/SeleniumPagefactoryFramework-master/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPagefactoryFramework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -232,11 +228,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.CartPageTest" />
+        <item itemvalue="TestNG./Users/dilrubajahan/Downloads/SeleniumPagefactoryFramework-master/testng.xml" />
+        <item itemvalue="TestNG.WomanTest" />
+        <item itemvalue="TestNG.WomanTest.verifyEvening" />
+        <item itemvalue="TestNG.WomanTest.verifybCasual" />
         <item itemvalue="TestNG.ContactTest" />
-        <item itemvalue="TestNG.MultipleItemTest" />
-        <item itemvalue="TestNG.HomePageeTest" />
-        <item itemvalue="TestNG.HomePageeTest.searchDressesQuantity" />
       </list>
     </recent_temporary>
   </component>
@@ -356,7 +352,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570728895664</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="sauceLab">
+      <created>1570760866472</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1570760866472</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -373,6 +376,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="test" />
     <MESSAGE value="Selenium practice" />
     <MESSAGE value="HomePageTest added" />
@@ -380,19 +384,15 @@
     <MESSAGE value="all the tests from home page passed" />
     <MESSAGE value="home page tests passed" />
     <MESSAGE value="Contact page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Contact page" />
+    <MESSAGE value="sauceLab" />
+    <option name="LAST_COMMIT_MESSAGE" value="sauceLab" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/contact/ContactTest.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/homepageeTest/HomePageeTest.java</url>
-          <line>193</line>
+          <line>196</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>

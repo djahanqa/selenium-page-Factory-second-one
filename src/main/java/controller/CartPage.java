@@ -1,6 +1,5 @@
 package controller;
 
-
 import base.ScriptBase;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -9,9 +8,7 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
-
 import java.util.logging.Logger;
-
 
 public class CartPage extends ScriptBase {
     public static final Logger log=Logger.getLogger(CartPage .class.getName());
@@ -21,19 +18,16 @@ public class CartPage extends ScriptBase {
     @FindBy(id = "cart_title")
     WebElement cartTitle;
 
-
     @FindBy(css = "#add_to_cart > button > span")
     WebElement addToCard;
 
     @FindBy (xpath = "//*//span[@title='Continue shopping']")
     WebElement continueshopping;
-    @FindBy (css = "#layer_cart > div.clearfix > div.layer_cart_cart.col-xs-12.col-md-6 > div.button-container > a > span > i")
+    @FindBy (css = "#button_order_cart > span")
     WebElement checkout;
-
 
     @FindBy(xpath = "//*[@id='homefeatured']//h5[@itemprop='name']/a[@title='Faded Short Sleeve T-shirts']")
     WebElement sleevTsirt;
-
 
     @FindBy (xpath = "//div/a[@title='View my shopping cart']")
     WebElement cartPageView;
@@ -41,9 +35,7 @@ public class CartPage extends ScriptBase {
     @FindBy(xpath = "//*[@id='header_logo']/a/img[@class='logo img-responsive']")
     WebElement homepage;
 
-
     public CartPage(WebDriver driver) {
-
         PageFactory.initElements(driver, this);
 
     }
@@ -76,18 +68,15 @@ public class CartPage extends ScriptBase {
         log.info("Print actual and expected result cart title ");
         driver.findElement(By.xpath("//*[@class='"+bar+"']")).isDisplayed();
 
-
     }
     public void mouseOver(WebElement element, WebDriver driver) {
         Actions action = new Actions(driver);
         element = element;
         action.moveToElement(element).perform();
-
-
     }
-
     public void looptest(){
         for(int i=0; i<0; i++)
-            driver.findElement(By.xpath("")).click();}
+            driver.findElement(By.xpath("")).click();
+    }
 
 }

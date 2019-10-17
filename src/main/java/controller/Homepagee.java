@@ -27,26 +27,19 @@ public class Homepagee extends ScriptBase {
     WebElement ClickSearch;
     @FindBy(xpath = "//*[@class='heading-counter']")
     WebElement OneResultFound;
-
     @FindBy (id="search_query_top")
     WebElement Search;
     @FindBy(xpath = "//*[@id='searchbox']/button[@type='submit']")
     WebElement clickButton;
-
     @FindBy(css = "#header_logo > a > img")WebElement homepageNavigation;
-
     @FindBy(css = "#contact-link > a")
     WebElement ContactUs1;
     @FindBy(css = "#center_column > h1")
     WebElement customerService;
 
-
-
-
     public Homepagee(WebDriver driver) {
         PageFactory.initElements(driver, this);
     }
-
     public void verifyContactUS(String Shirt) {
         CallUs.click();
         log.info("Clicked on Call Us");
@@ -77,7 +70,6 @@ public class Homepagee extends ScriptBase {
     }
 
     public void catagory(WebDriver driver, String Selectcatagory) {
-
         driver.findElement(By.xpath("//*[@id='block_top_menu']//li[1]/a[@title='" + Selectcatagory + "']")).isDisplayed();
 
     }
@@ -89,7 +81,6 @@ public class Homepagee extends ScriptBase {
 
 
     }
-
     public void informationTree(WebDriver driver, String info) {
 
         driver.findElement(By.xpath("//*[@id='block_various_links_footer']/ul/li/a[@title='" + info + "']")).isDisplayed();

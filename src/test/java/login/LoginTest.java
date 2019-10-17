@@ -6,12 +6,15 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
+import java.net.MalformedURLException;
+
 public class LoginTest extends ScriptBase {
     LoginPage loginPage;
 
     @BeforeTest
-    public void beforetest(){
-        init();
+    public void beforetest() throws MalformedURLException {
+//        init();
+        saucelab();
 
     }
     @Test

@@ -7,8 +7,11 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.testng.Assert;
 
 import java.util.logging.Logger;
+
+import static org.testng.Assert.assertEquals;
 
 public class Woman extends ScriptBase {
     public static final Logger log=Logger.getLogger(Woman .class.getName());
@@ -24,7 +27,11 @@ public class Woman extends ScriptBase {
     WebElement womenTab;
     @FindBy(css = "#categories_block_left > h2")
     WebElement womenFilterTab;
+    @FindBy(css = "#center_column > h1 > span.heading-counter")
+    WebElement fiveProductsDisplay;
 
+    @FindBy(xpath = "//*[@id='block_top_menu']/ul/li[2]/a[@title='Dresses']")
+    WebElement dressss;
 
     public Woman(WebDriver driver) {
         PageFactory.initElements(driver, this);
@@ -42,12 +49,22 @@ public class Woman extends ScriptBase {
     }
 
     public void dressSearch(WebDriver driver, String dress) {
-        title.click();
-        log.info("title clicked");
-        dresses.isDisplayed();
-        log.info("Dresses displayed");
-        mouseOver(driver.findElement(By.xpath("//*//li[1]//li//a[@title='" + dress + "']")), driver);
-        log.info("concertinate dress");
+//        title.click();
+//        log.info("title clicked");
+//        dresses.isDisplayed();
+////            System.out.println("dresses displayed");
+//            log.info("Dresses displayed");
+//
+////        }else{ System.out.println("Dress don't display");
+
+       // mouseOver(driver.findElement(By.xpath("//*[@id='block_top_menu']/ul/li[2]/a[@title='Dresses']")), driver);
+
+
+        mouseOver(dressss,driver);
+        dressss.click();
+        log.info("mouse over on dress title");
+        Assert.assertEquals(fiveProductsDisplay, fiveProductsDisplay);
+
 
     }
 
@@ -55,7 +72,8 @@ public class Woman extends ScriptBase {
 
         Actions action = new Actions(driver);
         element = element;
-        action.moveToElement(element).perform();
+        action.moveToElement(element);
+        action.perform();
 
 
     }

@@ -14,8 +14,8 @@ public class CartPageTest extends ScriptBase {
     @BeforeTest
     public void beforetest() throws MalformedURLException {
 
-       // init();
-        soucelab();
+//       init();
+      saucelab();
     }
 
     @Test
@@ -49,14 +49,12 @@ public class CartPageTest extends ScriptBase {
         log.info("** verify Shopping Cart Bar *** Test Ends");
     }
 
-
     @Test
     public void verifycartPaymentBar() {
         log.info("** Verify Cart Payment Bar *** Test Starts");
         cartPage = new CartPage(driver);
         cartPage.shoppingCartSummery("step_todo last",driver);
         log.info("** Verify Cart Payment Bar *** Test Ends");
-
     }
 
     @Test
@@ -65,7 +63,6 @@ public class CartPageTest extends ScriptBase {
         cartPage = new CartPage(driver);
         cartPage.itemAddedToShoppingCart(driver);
         log.info("** Verify Faded T-shirt *** Test Ends");
-
     }
 
     @AfterTest
