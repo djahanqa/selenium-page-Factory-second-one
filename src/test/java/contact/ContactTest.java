@@ -12,11 +12,6 @@ public class ContactTest extends ScriptBase {
 
     ContactPage contactPage;
 
-    @BeforeTest
-    public void beforetest() throws MalformedURLException {
-        saucelab();
-
-    }
     @Test
     public void verifycontactus() {
         log.info("** Verify Contact Us *** Test Starts");

@@ -2,36 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6897024d-16aa-4b4e-8fb8-fae7295eea8b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drivers/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drivers/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/socialMediaTest/SocialMediaTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/base/ScriptBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/base/ScriptBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/controller/CartPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/CartPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/controller/ContactPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/ContactPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/controller/Homepagee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/Homepagee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/controller/Woman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/Woman.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/cart/CartPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cart/CartPageTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/contact/ContactTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/contact/ContactTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/homepageeTest/HomePageeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/homepageeTest/HomePageeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/login/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/login/LoginTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/multipleItem/MultipleItemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/multipleItem/MultipleItemTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/multipleItemAdded/MultipleItemAddedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/multipleItemAdded/MultipleItemAddedTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/socialMediaTest/socialMediaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/socialMediaTest/socialMediaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/socialMediaTest/socialMediaTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/womanTest/WomanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/womanTest/WomanTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/womencatalog/WomanCatalogTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/womencatalog/WomanCatalogTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/base/ScriptBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/ScriptBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/controller/CartPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/CartPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/controller/ContactPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/ContactPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/controller/Homepagee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/Homepagee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/controller/Woman.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/Woman.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/cart/CartPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/cart/CartPageTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/contact/ContactTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/contact/ContactTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/homepageeTest/HomePageeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/homepageeTest/HomePageeTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/login/LoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/login/LoginTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/multipleItem/MultipleItemTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/multipleItem/MultipleItemTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/multipleItemAdded/MultipleItemAddedTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/multipleItemAdded/MultipleItemAddedTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/social/socialMediaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/social/socialMediaTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/social/socialMediaTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/womanTest/WomanTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/womanTest/WomanTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/womencatalog/WomanCatalogTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/womencatalog/WomanCatalogTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,9 +47,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="XSLT Stylesheet" />
         <option value="FxmlFile" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -117,8 +113,10 @@
       <recent name="$PROJECT_DIR$/src/test/resources/testsuite" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/test" />
       <recent name="$PROJECT_DIR$/drivers" />
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$/target" />
+      <recent name="$PROJECT_DIR$/src/test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -133,7 +131,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG./Users/dilrubajahan/Downloads/SeleniumPagefactoryFramework-master/testng.xml">
+  <component name="RunManager" selected="TestNG./Users/dilrubajahan/Downloads/SeleniumPagefactoryFramework-master/src/test/resources/testng.xml">
     <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
       <setting name="path" value="" />
       <setting name="vmparams" value="" />
@@ -198,18 +196,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WomanTest.verifybCasual" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="/Users/dilrubajahan/Downloads/SeleniumPagefactoryFramework-master/src/test/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPagefactoryFramework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="womanTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="womanTest" />
-      <option name="MAIN_CLASS_NAME" value="womanTest.WomanTest" />
-      <option name="METHOD_NAME" value="verifybCasual" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -228,11 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG./Users/dilrubajahan/Downloads/SeleniumPagefactoryFramework-master/src/test/resources/testng.xml" />
+        <item itemvalue="TestNG.ContactTest" />
         <item itemvalue="TestNG./Users/dilrubajahan/Downloads/SeleniumPagefactoryFramework-master/testng.xml" />
         <item itemvalue="TestNG.WomanTest" />
         <item itemvalue="TestNG.WomanTest.verifyEvening" />
-        <item itemvalue="TestNG.WomanTest.verifybCasual" />
-        <item itemvalue="TestNG.ContactTest" />
       </list>
     </recent_temporary>
   </component>
@@ -359,7 +349,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570760866472</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="sauceLab">
+      <created>1571335843296</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1571335843296</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -392,7 +389,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/homepageeTest/HomePageeTest.java</url>
-          <line>196</line>
+          <line>191</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>

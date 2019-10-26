@@ -13,12 +13,7 @@ public class MultipleItemTest extends ScriptBase {
 
     MultipleItemPage multipleItemPage;
 
-    @BeforeTest
-    public void beforetest() throws MalformedURLException {
-        //init();
-       saucelab();
 
-    }
 
     @Test
 

@@ -11,12 +11,6 @@ public class CartPageTest extends ScriptBase {
 
     CartPage cartPage;
 
-    @BeforeTest
-    public void beforetest() throws MalformedURLException {
-
-//       init();
-      saucelab();
-    }
 
     @Test
     public void verifycartpage(){

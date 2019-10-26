@@ -11,12 +11,6 @@ import java.net.MalformedURLException;
 public class LoginTest extends ScriptBase {
     LoginPage loginPage;
 
-    @BeforeTest
-    public void beforetest() throws MalformedURLException {
-//        init();
-        saucelab();
-
-    }
     @Test
     public void invalidLoginVerify(){
         loginPage=new LoginPage(driver);

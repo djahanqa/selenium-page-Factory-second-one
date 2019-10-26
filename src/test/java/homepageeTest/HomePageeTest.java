@@ -13,11 +13,6 @@ public class HomePageeTest extends ScriptBase {
 
     Homepagee homepagee;
 
-    @BeforeTest
-    public void beforetest() throws MalformedURLException {
-        //init();
-        saucelab();
-    }
 
     @Test
     public void verifyHomePage() {

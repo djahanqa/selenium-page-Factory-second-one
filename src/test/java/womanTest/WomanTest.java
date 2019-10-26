@@ -12,12 +12,7 @@ public class WomanTest extends ScriptBase {
 
     Woman woman;
 
-    @BeforeTest
-    public void beforetest()throws MalformedURLException {
 
-        //init();
-       saucelab();
-    }
 
     @Test
     public void verifyTshirt() {

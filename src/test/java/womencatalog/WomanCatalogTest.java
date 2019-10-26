@@ -11,12 +11,6 @@ import java.net.MalformedURLException;
 public class WomanCatalogTest extends ScriptBase {
     WomanCatalog womanCatalog;
 
-    @BeforeTest
-    public void beforetest() throws MalformedURLException {
-
-        //init();
-        saucelab();
-    }
 
     @Test
     public void verifyWomancatalog() {

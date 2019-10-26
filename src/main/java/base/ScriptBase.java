@@ -6,6 +6,9 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.safari.SafariDriver;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Parameters;
 
 import java.net.MalformedURLException;
 import java.net.URL;
@@ -19,26 +22,10 @@ public class ScriptBase {
     public static final String URL="http://"+USERNAME+":"+ACCESSKEY+"@ondemand.saucelabs.com:80/wd/hub";
 
 
-//    public void init(){
-//        String Log4jConfigPath="log4j.properties";
-//
-//        PropertyConfigurator.configure(Log4jConfigPath);
-//        System.setProperty("webdriver.chrome.driver","./drivers/chromedriver");
-//        driver = new ChromeDriver();
-//        driver.get("http://automationpractice.com/index.php");
-//
-//    }
-//public void saucelab() throws MalformedURLException {
-//    DesiredCapabilities caps=new DesiredCapabilities();
-//    caps.setCapability("browserName","chrome");
-//    caps.setCapability("platform","macOS 10.13");
-//    caps.setCapability("version","latest");
-//    driver=new RemoteWebDriver(new URL(URL),caps);
-//    driver.get("http://automationpractice.com/index.php");
 
-
-
-public void beforetest (String browser){
+@Parameters("browser")
+@BeforeClass
+public void beforetest (String browser) throws MalformedURLException {
     if (browser.equalsIgnoreCase("chrome")) {
         System.setProperty("webdriver.chrome.driver", "./drivers/chromedriver");
         driver = new ChromeDriver();
@@ -49,7 +36,14 @@ public void beforetest (String browser){
     }else if(browser.equalsIgnoreCase("safari")) {
         System.setProperty("webdriver.safari.notInstalled", "true");
         driver=new SafariDriver();
-    }
+    } else if(browser.equalsIgnoreCase("saucelabChrome")) {
+        DesiredCapabilities caps=new DesiredCapabilities();
+    caps.setCapability("browserName","chrome");
+    caps.setCapability("platform","macOS 10.13");
+    caps.setCapability("version","latest");
+    driver=new RemoteWebDriver(new URL(URL),caps);
 
+    }
+    driver.get("http://automationpractice.com/index.php");
 }
 }
