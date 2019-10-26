@@ -1,34 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6897024d-16aa-4b4e-8fb8-fae7295eea8b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drivers/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drivers/geckodriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/socialMediaTest/SocialMediaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/base/ScriptBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/base/ScriptBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cart/CartPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cart/CartPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/contact/ContactTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/contact/ContactTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/homepageeTest/HomePageeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/homepageeTest/HomePageeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/login/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/login/LoginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/multipleItem/MultipleItemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/multipleItem/MultipleItemTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/multipleItemAdded/MultipleItemAddedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/multipleItemAdded/MultipleItemAddedTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/socialMediaTest/socialMediaTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/womanTest/WomanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/womanTest/WomanTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/womencatalog/WomanCatalogTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/womencatalog/WomanCatalogTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/base/ScriptBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/ScriptBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/cart/CartPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/cart/CartPageTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/contact/ContactTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/contact/ContactTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/homepageeTest/HomePageeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/homepageeTest/HomePageeTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/login/LoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/login/LoginTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/multipleItem/MultipleItemTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/multipleItem/MultipleItemTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/multipleItemAdded/MultipleItemAddedTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/multipleItemAdded/MultipleItemAddedTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/social/socialMediaTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/womanTest/WomanTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/womanTest/WomanTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/womencatalog/WomanCatalogTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/womencatalog/WomanCatalogTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6897024d-16aa-4b4e-8fb8-fae7295eea8b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -356,7 +329,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571335843296</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="resources">
+      <created>1572107579622</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1572107579622</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -382,7 +362,8 @@
     <MESSAGE value="home page tests passed" />
     <MESSAGE value="Contact page" />
     <MESSAGE value="sauceLab" />
-    <option name="LAST_COMMIT_MESSAGE" value="sauceLab" />
+    <MESSAGE value="resources" />
+    <option name="LAST_COMMIT_MESSAGE" value="resources" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
