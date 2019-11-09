@@ -8,6 +8,7 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.Select;
+import org.testng.ITestContext;
 
 import java.util.logging.Logger;
 
@@ -115,4 +116,8 @@ public class MultipleItemAddedPage extends ScriptBase {
             driver.findElement(By.xpath("//*[@id='quantity_wanted_p']//span/i[@class='icon-plus']")).click();}
 
 
+    @Override
+    public void onTestStart(ITestContext result) {
+
+    }
 }

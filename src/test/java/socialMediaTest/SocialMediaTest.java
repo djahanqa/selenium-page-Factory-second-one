@@ -2,6 +2,7 @@ package socialMediaTest;
 
 import base.ScriptBase;
 import controller.SocialMedia;
+import org.testng.ITestContext;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.Test;
 
@@ -37,4 +38,8 @@ public class SocialMediaTest extends ScriptBase {
         driver.quit();
     }
 
+    @Override
+    public void onTestStart(ITestContext result) {
+
+    }
 }

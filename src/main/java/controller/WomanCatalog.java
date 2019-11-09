@@ -6,6 +6,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.PageFactory;
+import org.testng.ITestContext;
 
 import java.util.logging.Logger;
 
@@ -31,6 +32,11 @@ public class WomanCatalog extends ScriptBase {
         Actions action =new Actions(driver);
         element= element;
         action.moveToElement(element).perform();
+
+    }
+
+    @Override
+    public void onTestStart(ITestContext result) {
 
     }
 }

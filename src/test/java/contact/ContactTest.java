@@ -2,6 +2,7 @@ package contact;
 
 import base.ScriptBase;
 import controller.ContactPage;
+import org.testng.ITestContext;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
@@ -40,4 +41,8 @@ public class ContactTest extends ScriptBase {
         driver.quit();
     }
 
+    @Override
+    public void onTestStart(ITestContext result) {
+
+    }
 }

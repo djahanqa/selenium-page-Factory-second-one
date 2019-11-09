@@ -6,6 +6,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
+import org.testng.ITestContext;
+
 import java.util.concurrent.TimeUnit;
 
 public class LoginPage extends ScriptBase {
@@ -28,8 +30,6 @@ public class LoginPage extends ScriptBase {
     @FindBy(id = "passwd")WebElement signupPassword;
     @FindBy(css = "#submitAccount > span")WebElement submitRegisterButton;
     @FindBy(xpath = "//*[@id=\"center_column\"]/div")WebElement invalidSignpErrorMessage;
-
-
 
     public LoginPage(WebDriver driver){
         PageFactory.initElements(driver,this);
@@ -77,6 +77,11 @@ public class LoginPage extends ScriptBase {
         Assert.assertEquals(invalidSignpErrorMessage,invalidSignpErrorMessage);
         //email: test420@gmail.com
         //password: admin1234
+
+    }
+
+    @Override
+    public void onTestStart(ITestContext result) {
 
     }
 }

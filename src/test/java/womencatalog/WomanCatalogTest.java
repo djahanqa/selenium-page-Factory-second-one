@@ -2,6 +2,7 @@ package womencatalog;
 
 import base.ScriptBase;
 import controller.WomanCatalog;
+import org.testng.ITestContext;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
@@ -39,4 +40,8 @@ public class WomanCatalogTest extends ScriptBase {
     }
 
 
+    @Override
+    public void onTestStart(ITestContext result) {
+
+    }
 }

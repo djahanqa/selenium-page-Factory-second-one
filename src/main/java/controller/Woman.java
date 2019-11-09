@@ -8,6 +8,7 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
+import org.testng.ITestContext;
 
 import java.util.logging.Logger;
 
@@ -91,6 +92,11 @@ public class Woman extends ScriptBase {
             }
 
         } else System.out.println("Women Filter Tab not found " + womenFilterTab);
+
+    }
+
+    @Override
+    public void onTestStart(ITestContext result) {
 
     }
 }

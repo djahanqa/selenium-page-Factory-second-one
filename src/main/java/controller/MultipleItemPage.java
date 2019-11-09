@@ -9,6 +9,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.Select;
 import org.testng.Assert;
+import org.testng.ITestContext;
 
 import java.util.logging.Logger;
 
@@ -106,6 +107,18 @@ public class MultipleItemPage extends ScriptBase {
 
         }
 
+
+    }
+
+    public  void iframe(){
+
+        driver.switchTo().frame(0);
+        driver.findElement(By.xpath("")).click();
+        driver.switchTo().defaultContent();
+    }
+
+    @Override
+    public void onTestStart(ITestContext result) {
 
     }
 }

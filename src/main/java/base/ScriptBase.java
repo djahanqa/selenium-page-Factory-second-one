@@ -6,6 +6,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.safari.SafariDriver;
+import org.testng.ITestContext;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Parameters;
@@ -14,18 +15,23 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.logging.Logger;
 
-public class ScriptBase {
-    public WebDriver driver;
+public abstract class ScriptBase {
+
+    public static WebDriver driver;
     public static final Logger log=Logger.getLogger(ScriptBase.class.getName());
     public static final String USERNAME="djahanqa";
     public static final String ACCESSKEY="408b817e-0349-4a9b-8405-7ff39a5e6d58";
     public static final String URL="http://"+USERNAME+":"+ACCESSKEY+"@ondemand.saucelabs.com:80/wd/hub";
 
 
+    public WebDriver getDriver() {
+        return driver;
+    }
 
-@Parameters("browser")
-@BeforeClass
-public void beforetest (String browser) throws MalformedURLException {
+
+    @Parameters("browser")
+    @BeforeClass
+    public void beforetest (String browser) throws MalformedURLException {
     if (browser.equalsIgnoreCase("chrome")) {
         System.setProperty("webdriver.chrome.driver", "./drivers/chromedriver");
         driver = new ChromeDriver();
@@ -46,4 +52,6 @@ public void beforetest (String browser) throws MalformedURLException {
     }
     driver.get("http://automationpractice.com/index.php");
 }
+
+    public abstract void onTestStart(ITestContext result);
 }

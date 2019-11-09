@@ -5,6 +5,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
+import org.testng.ITestContext;
 
 import java.util.logging.Logger;
 
@@ -39,6 +40,11 @@ public class SocialMedia extends ScriptBase {
 
         driver.switchTo().window(windowHandleBefore);
 
+
+    }
+
+    @Override
+    public void onTestStart(ITestContext result) {
 
     }
 }

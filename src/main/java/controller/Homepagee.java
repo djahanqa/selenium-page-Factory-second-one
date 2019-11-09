@@ -7,6 +7,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
+import org.testng.ITestContext;
 
 import java.util.logging.Logger;
 
@@ -103,4 +104,8 @@ public class Homepagee extends ScriptBase {
 
     }
 
+    @Override
+    public void onTestStart(ITestContext result) {
+
+    }
 }

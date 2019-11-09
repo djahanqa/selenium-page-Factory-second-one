@@ -1,7 +1,189 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6897024d-16aa-4b4e-8fb8-fae7295eea8b" name="Default Changelist" comment="" />
+    <list default="true" id="6897024d-16aa-4b4e-8fb8-fae7295eea8b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_relevantcodes_extentreports_2_41_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_sqlite_jdbc_3_8_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExtentReportResults.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExtentReports/ExtentReportResults.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FailureScreenshots/verifyChangeSize_02_11_2019_11_20_34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FailureScreenshots/verifyfadedTshirt_02_11_2019_11_17_46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/reporting/ExtentsReporting/ExtentTestManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/reporting/ExtentsReporting/ExtentsManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/reporting/ListenerOld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/reporting/Listeners/AnnotationTransformer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/reporting/Listeners/Listener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/reporting/Listeners/Retry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/information1_02_11_2019_11_07_56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/information1_02_11_2019_11_18_39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/information2_02_11_2019_11_07_58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/information2_02_11_2019_11_18_40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/information3_02_11_2019_11_07_59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/information3_02_11_2019_11_19_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/information4_02_11_2019_11_08_00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/information4_02_11_2019_11_19_04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/information5_02_11_2019_11_08_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/information5_02_11_2019_11_19_05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/information6_02_11_2019_11_08_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/information6_02_11_2019_11_19_06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/information7_02_11_2019_11_08_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/information7_02_11_2019_11_19_07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/information8_02_11_2019_11_08_04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/information8_02_11_2019_11_19_08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/invalidCreateAccountVerify_02_11_2019_11_08_23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/invalidCreateAccountVerify_02_11_2019_11_19_26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/invalidLoginVerify_02_11_2019_11_08_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/invalidLoginVerify_02_11_2019_11_19_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/invalidSignUpAccountVerify_02_11_2019_11_08_27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/invalidSignUpAccountVerify_02_11_2019_11_19_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/myAccount1_02_11_2019_11_08_05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/myAccount1_02_11_2019_11_19_09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/myAccount2_02_11_2019_11_08_06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/myAccount2_02_11_2019_11_19_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/myAccount3_02_11_2019_11_08_07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/myAccount3_02_11_2019_11_19_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/myAccount4_02_11_2019_11_08_08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/myAccount4_02_11_2019_11_19_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/searchDressesQuantity_02_11_2019_11_07_50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/searchDressesQuantity_02_11_2019_11_18_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/searchHatQuantity_02_11_2019_11_07_49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/searchHatQuantity_02_11_2019_11_18_09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/searchSleeveQuantity_02_11_2019_11_07_47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/searchSleeveQuantity_02_11_2019_11_18_07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/searchTshirtsQuantity_02_11_2019_11_07_51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/searchTshirtsQuantity_02_11_2019_11_18_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/searchbestSeller_02_11_2019_11_07_55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/searchbestSeller_02_11_2019_11_18_38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/searchpopular_02_11_2019_11_07_53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/searchpopular_02_11_2019_11_18_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/searchwomenQuantity_02_11_2019_11_07_51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/searchwomenQuantity_02_11_2019_11_18_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/validLoginVerify_02_11_2019_11_08_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/validLoginVerify_02_11_2019_11_19_23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/validLoginWithLogOutVerify_02_11_2019_11_08_21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/validLoginWithLogOutVerify_02_11_2019_11_19_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/varifySendAMessage_02_11_2019_11_07_39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/varifySendAMessage_02_11_2019_11_17_59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifyBlouse_02_11_2019_11_08_45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifyBlouse_02_11_2019_11_19_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifyChangeSize_02_11_2019_11_10_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifyChangeSize_02_11_2019_11_21_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifyDresscatalog_02_11_2019_11_11_05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifyDresscatalog_02_11_2019_11_22_00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifyEveningDress_02_11_2019_11_10_56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifyEveningDress_02_11_2019_11_21_52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifyEvening_02_11_2019_11_10_40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifyEvening_02_11_2019_11_21_40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifyHomePage_02_11_2019_11_07_46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifyHomePage_02_11_2019_11_18_05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifyPrintedChiffon_02_11_2019_11_09_07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifyPrintedChiffon_02_11_2019_11_20_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifyPrintedDressOne_02_11_2019_11_08_53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifyPrintedDressOne_02_11_2019_11_19_57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifyPrintedSummerDress_02_11_2019_11_09_00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifyPrintedSummerDress_02_11_2019_11_20_06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifyQuanity_02_11_2019_11_09_27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifyQuanity_02_11_2019_11_10_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifyQuanity_02_11_2019_11_20_33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifyQuanity_02_11_2019_11_21_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifySummerDress_02_11_2019_11_11_00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifySummerDress_02_11_2019_11_21_55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifySummer_02_11_2019_11_10_46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifySummer_02_11_2019_11_21_42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifyTshirt_02_11_2019_11_10_35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifyTshirt_02_11_2019_11_21_34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifyTshirtcatalog_02_11_2019_11_11_07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifyTshirtcatalog_02_11_2019_11_22_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifyWomancatalog_02_11_2019_11_11_04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifyWomancatalog_02_11_2019_11_21_59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifyWomenBlouse_02_11_2019_11_10_51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifyWomenBlouse_02_11_2019_11_21_47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifyWomenCasualDress_02_11_2019_11_10_54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifyWomenCasualDress_02_11_2019_11_21_50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifyWomenTshirt_02_11_2019_11_10_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifyWomenTshirt_02_11_2019_11_21_44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifybCasual_02_11_2019_11_10_39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifybCasual_02_11_2019_11_21_38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifyblouse_02_11_2019_11_10_37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifyblouse_02_11_2019_11_21_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifycartAddressBar_02_11_2019_11_07_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifycartAddressBar_02_11_2019_11_17_35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifycartPaymentBar_02_11_2019_11_07_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifycartPaymentBar_02_11_2019_11_17_38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifycartShoppingBar_02_11_2019_11_07_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifycartShoppingBar_02_11_2019_11_17_37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifycartSiginBar_02_11_2019_11_07_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifycartSiginBar_02_11_2019_11_17_34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifycartpage_02_11_2019_11_07_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifycartpage_02_11_2019_11_10_06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifycartpage_02_11_2019_11_17_33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifycartpage_02_11_2019_11_21_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifycontactus_02_11_2019_11_07_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifycontactus_02_11_2019_11_08_09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifycontactus_02_11_2019_11_17_50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifycontactus_02_11_2019_11_19_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifyfacebook_02_11_2019_11_10_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifyfacebook_02_11_2019_11_21_22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifyfadedTshirt_02_11_2019_11_08_37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifyfadedTshirt_02_11_2019_11_19_40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifygoogle_02_11_2019_11_10_31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifygoogle_02_11_2019_11_21_28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifymessagesent_02_11_2019_11_07_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifymessagesent_02_11_2019_11_17_52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifytwitter_02_11_2019_11_10_26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifytwitter_02_11_2019_11_21_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifyyoutube_02_11_2019_11_10_29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/successScreenshots/verifyyoutube_02_11_2019_11_21_27.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumPagefactoryFramework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumPagefactoryFramework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drivers/geckodriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/base/ScriptBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/base/ScriptBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/CartPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/CartPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/ContactPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/ContactPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/Homepagee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/Homepagee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/MultipleItemAddedPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/MultipleItemAddedPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/MultipleItemPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/MultipleItemPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/OneItemAddedToCartPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/OneItemAddedToCartPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/SocialMedia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/SocialMedia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/Woman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/Woman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/WomanCatalog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/WomanCatalog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cart/CartPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cart/CartPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/contact/ContactTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/contact/ContactTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/homepageeTest/HomePageeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/homepageeTest/HomePageeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/login/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/login/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/multipleItem/MultipleItemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/multipleItem/MultipleItemTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/multipleItemAdded/MultipleItemAddedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/multipleItemAdded/MultipleItemAddedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/socialMediaTest/SocialMediaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/socialMediaTest/SocialMediaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/womanTest/WomanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/womanTest/WomanTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/womencatalog/WomanCatalogTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/womencatalog/WomanCatalogTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/base/ScriptBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/ScriptBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/CartPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/CartPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/ContactPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/ContactPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/Homepagee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/Homepagee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/MultipleItemAddedPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/MultipleItemAddedPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/MultipleItemPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/MultipleItemPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/OneItemAddedToCartPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/OneItemAddedToCartPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/SocialMedia.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/SocialMedia.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/Woman.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/Woman.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/WomanCatalog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/WomanCatalog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cart/CartPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/cart/CartPageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/contact/ContactTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/contact/ContactTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/homepageeTest/HomePageeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/homepageeTest/HomePageeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/login/LoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/login/LoginTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/multipleItem/MultipleItemTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/multipleItem/MultipleItemTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/multipleItemAdded/MultipleItemAddedTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/multipleItemAdded/MultipleItemAddedTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/womanTest/WomanTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/womanTest/WomanTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/womencatalog/WomanCatalogTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/womencatalog/WomanCatalogTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,14 +264,17 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/test/resources/testsuite" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/drivers" />
       <recent name="$PROJECT_DIR$/src/test/resources" />
       <recent name="$PROJECT_DIR$/target" />
       <recent name="$PROJECT_DIR$/src/test" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="reporting.ExtentsReporting.Listeners" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/testsuite" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -104,7 +289,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG./Users/dilrubajahan/Downloads/SeleniumPagefactoryFramework-master/src/test/resources/testng.xml">
+  <component name="RunManager" selected="TestNG./Users/dilrubajahan/Downloads/SeleniumPagefactoryFramework-master/testng.xml">
     <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
       <setting name="path" value="" />
       <setting name="vmparams" value="" />
@@ -117,16 +302,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContactTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="MultipleItemAddedTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPagefactoryFramework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="contact.*" />
+          <option name="PATTERN" value="multipleItemAdded.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="contact" />
-      <option name="MAIN_CLASS_NAME" value="contact.ContactTest" />
+      <option name="PACKAGE_NAME" value="multipleItemAdded" />
+      <option name="MAIN_CLASS_NAME" value="multipleItemAdded.MultipleItemAddedTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -134,16 +319,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WomanTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SocialMediaTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPagefactoryFramework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="womanTest.*" />
+          <option name="PATTERN" value="socialMediaTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="womanTest" />
-      <option name="MAIN_CLASS_NAME" value="womanTest.WomanTest" />
+      <option name="PACKAGE_NAME" value="socialMediaTest" />
+      <option name="MAIN_CLASS_NAME" value="socialMediaTest.SocialMediaTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -151,17 +336,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WomanTest.verifyEvening" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SocialMediaTest.verifygoogle" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPagefactoryFramework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="womanTest.*" />
+          <option name="PATTERN" value="socialMediaTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="womanTest" />
-      <option name="MAIN_CLASS_NAME" value="womanTest.WomanTest" />
-      <option name="METHOD_NAME" value="verifyEvening" />
+      <option name="PACKAGE_NAME" value="socialMediaTest" />
+      <option name="MAIN_CLASS_NAME" value="socialMediaTest.SocialMediaTest" />
+      <option name="METHOD_NAME" value="verifygoogle" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -191,11 +376,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG./Users/dilrubajahan/Downloads/SeleniumPagefactoryFramework-master/src/test/resources/testng.xml" />
-        <item itemvalue="TestNG.ContactTest" />
         <item itemvalue="TestNG./Users/dilrubajahan/Downloads/SeleniumPagefactoryFramework-master/testng.xml" />
-        <item itemvalue="TestNG.WomanTest" />
-        <item itemvalue="TestNG.WomanTest.verifyEvening" />
+        <item itemvalue="TestNG./Users/dilrubajahan/Downloads/SeleniumPagefactoryFramework-master/src/test/resources/testng.xml" />
+        <item itemvalue="TestNG.MultipleItemAddedTest" />
+        <item itemvalue="TestNG.SocialMediaTest.verifygoogle" />
+        <item itemvalue="TestNG.SocialMediaTest" />
       </list>
     </recent_temporary>
   </component>
@@ -336,7 +521,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572107579622</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="resources">
+      <created>1572107812953</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1572107812953</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -370,7 +562,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/homepageeTest/HomePageeTest.java</url>
-          <line>191</line>
+          <line>192</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
@@ -382,6 +574,9 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/SeleniumPagefactoryFramework$_Users_dilrubajahan_Documents_SeleniumPagefactoryFramework_src_test_resources_testsuite_regression_xml.ic" NAME="$PROJECT_DIR$/src/test/resources/testsuite/regression.xml Coverage Results" MODIFIED="1564969750313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/SeleniumPagefactoryFramework_master$SocialMediaTest_verifygoogle.ic" NAME="SocialMediaTest.verifygoogle Coverage Results" MODIFIED="1572386534124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>socialMediaTest.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/SeleniumPagefactoryFramework$All_in_SeleniumPagefactoryFramework.ic" NAME="All in SeleniumPagefactoryFramework Coverage Results" MODIFIED="1564841946396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/SeleniumPagefactoryFramework$_Users_dilrubajahan_Documents_SeleniumPagefactoryFramework_testng_xml.ic" NAME="$PROJECT_DIR$/testng.xml Coverage Results" MODIFIED="1564842657968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/SeleniumPagefactoryFramework$_default_.ic" NAME="&lt;default&gt; Coverage Results" MODIFIED="1564841900816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />

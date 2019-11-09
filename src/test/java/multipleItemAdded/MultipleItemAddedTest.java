@@ -3,6 +3,7 @@ package multipleItemAdded;
 import base.ScriptBase;
 
 import controller.MultipleItemAddedPage;
+import org.testng.ITestContext;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
@@ -51,4 +52,8 @@ public class MultipleItemAddedTest extends ScriptBase {
 
     }
 
+    @Override
+    public void onTestStart(ITestContext result) {
+
+    }
 }
